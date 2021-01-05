@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Author: xakepnz
-# Description: Brute Force Okta HTTPS Authentication.
+# Description: Simple Okta HTTPs Brute Force script.
 ################################################################################################
 # Imports:
 ################################################################################################
